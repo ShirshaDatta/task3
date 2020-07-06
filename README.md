@@ -9,3 +9,7 @@
     3. Make the data to remain persistent ( If server collects some data like logs, other user information )
 6.  Job3 : Test your app if it  is working or not.
 7.  Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
+
+The link to the article explaining the task:
+https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta
+
