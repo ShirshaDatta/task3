@@ -1,4 +1,4 @@
-# task3
+# Using K8S to deploy containerized web-app and automating using Jenkins
 1. Create container image that’s has Jenkins installed  using dockerfile  Or You can use the Jenkins Server on RHEL 8/7
 2.  When we launch this image, it should automatically starts Jenkins service in the container.
 3.  Create a job chain of job1, job2, job3 and  job4 using build pipeline plugin in Jenkins 
